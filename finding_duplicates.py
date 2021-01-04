@@ -1,6 +1,6 @@
 # RangaD
 print("RanugaD")
-list_given = [1, 2, 3, 4, 5, 5, 6, 6, 6, 9, 9, 10, 10, 101, 10, 10]
+list_given = [1,2,2,3,3,3,3,2,5,6,56]
 
 
 def find_duplicate(head: list) -> "A List without any duplicate number":
