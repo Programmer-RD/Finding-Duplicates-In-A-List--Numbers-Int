@@ -28,4 +28,4 @@ def find_duplicate(head: list) -> "A List without any duplicate number":
 
 print(find_duplicate(list_given))
 print("RanugaD")
-# RangaD
+# Ranuga-D
